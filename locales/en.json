@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "index": {
+      "title": "Quoc Khanh Uniform - Professional Uniform Manufacturing in Hanoi",
+      "description": "Quoc Khanh Uniform Vietnam Company Limited - Professional manufacturing, design, and processing of corporate uniforms, student uniforms, safety workwear, restaurant and hotel uniforms in Hanoi"
+    },
+    "about": {
+      "title": "About Us - Quoc Khanh Uniform | Production Capacity",
+      "description": "About Quoc Khanh Uniform Vietnam Company Limited - Professional uniform manufacturing with over 5 years of experience in the apparel industry"
+    },
+    "services": {
+      "title": "Services - Quoc Khanh Uniform | High-Quality Uniform Manufacturing",
+      "description": "Quoc Khanh Uniform's uniform manufacturing services: Corporate uniforms, student uniforms, safety workwear, restaurant and hotel uniforms. High quality, competitive prices in Hanoi"
+    },
+    "contact": {
+      "title": "Contact - Quoc Khanh Uniform | Quote & Consultation",
+      "description": "Contact Quoc Khanh Uniform - Professional uniform manufacturer in Hanoi. Address: No. 3, Group 4, Phuc Loi Ward, Long Bien District, Hanoi. Phone: 0366 333 168"
+    },
+    "policies": {
+      "title": "Policies - Quoc Khanh Uniform | Warranty - Delivery - Return",
+      "description": "Warranty, delivery, and return policies of Quoc Khanh Uniform. Commitment to the best product quality and service for customers"
+    },
+    "privacy": {
+      "title": "Privacy Policy - Quoc Khanh Uniform",
+      "description": "Privacy policy of Quoc Khanh Uniform Vietnam Company Limited - Commitment to protecting customer information"
+    },
+    "process": {
+      "title": "Production Process - Quoc Khanh Uniform | From Design to Delivery",
+      "description": "Professional uniform production process of Quoc Khanh Uniform: From consultation, design, production to delivery. Ensuring quality and timeline"
+    },
+    "portfolio": {
+      "title": "Projects & Clients - Quoc Khanh Uniform | Uniform Portfolio",
+      "description": "Featured projects and clients of Quoc Khanh Uniform - Over 500 successful uniform projects for companies, schools, and safety wear"
+    },
+    "news": {
+      "title": "News & Blog - Quoc Khanh Uniform | Apparel Industry Updates",
+      "description": "News and blog about the apparel industry, uniform trends, uniform selection experience from Quoc Khanh Uniform"
+    }
+  },
+  "common": {
+    "logo": "QUOC KHANH UNIFORM",
+    "tagline": "Quality - Trust - Professionalism",
+    "phone": "0366 333 168",
+    "contactNow": "Contact Now",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "process": "Process",
+      "portfolio": "Portfolio",
+      "news": "News",
+      "policies": "Policies",
+      "contact": "Contact"
+    },
+    "footer": {
+      "companyDesc": "Quoc Khanh Uniform Vietnam Company Limited - Professional uniform manufacturing and processing in Hanoi",
+      "address": "No. 3, Group 4, Phuc Loi Ward, Long Bien District, Hanoi",
+      "email": "info@quockhanhuniform.com",
+      "services": "Services",
+      "info": "Information",
+      "support": "Support",
+      "corporateUniform": "Corporate Uniforms",
+      "studentUniform": "Student Uniforms",
+      "safetyUniform": "Safety Workwear",
+      "hotelUniform": "Restaurant - Hotel Uniforms",
+      "warrantyPolicy": "Warranty Policy",
+      "deliveryPolicy": "Delivery Policy",
+      "returnPolicy": "Return Policy",
+      "companyInfo": "Company Information",
+      "copyright": "2024 Quoc Khanh Uniform Vietnam Company Limited. Tax ID: 0108735264"
+    },
+    "breadcrumb": {
+      "home": "Home"
+    }
+  },
+  "index": {
+    "hero": {
+      "title": "Professional High-Quality Uniform Specialist",
+      "subtitle": "Manufacturing - Design - Processing of corporate uniforms, student uniforms, safety workwear to international standards",
+      "viewServices": "View Services",
+      "getQuote": "Get Quote"
+    },
+    "services": {
+      "title": "Main Services",
+      "subtitle": "We provide comprehensive uniform solutions for all needs",
+      "corporate": {
+        "title": "Corporate Uniforms",
+        "desc": "Professional corporate uniform design and manufacturing, impressively representing your company brand",
+        "detail": "Details →"
+      },
+      "student": {
+        "title": "Student Uniforms",
+        "desc": "Durable, beautiful, breathable student uniforms, meeting Vietnamese education standards",
+        "detail": "Details →"
+      },
+      "safety": {
+        "title": "Safety Workwear",
+        "desc": "Safety workwear meeting safety standards, high quality for workers",
+        "detail": "Details →"
+      },
+      "hotel": {
+        "title": "Restaurant - Hotel Uniforms",
+        "desc": "Elegant restaurant and hotel uniform design, creating a good impression with customers",
+        "detail": "Details →"
+      }
+    },
+    "whyChoose": {
+      "title": "Why Choose Quoc Khanh Uniform?",
+      "exp": {
+        "title": "Extensive Experience",
+        "desc": "Over 5 years of experience in the apparel industry, understanding market needs and trends"
+      },
+      "quality": {
+        "title": "Guaranteed Quality",
+        "desc": "Using high-quality fabrics, modern sewing technology, ensuring durability and aesthetics"
+      },
+      "price": {
+        "title": "Competitive Pricing",
+        "desc": "Reasonable prices, transparent quotes, no hidden costs"
+      },
+      "delivery": {
+        "title": "On-Time Delivery",
+        "desc": "Commitment to on-time delivery, ensuring production progress for customers"
+      },
+      "support": {
+        "title": "Dedicated Support",
+        "desc": "Professional consulting team, providing free design and sample consultation"
+      },
+      "warranty": {
+        "title": "Warranty Policy",
+        "desc": "Product quality warranty, exchange if there are manufacturer defects"
+      }
+    },
+    "process": {
+      "title": "Work Process",
+      "consult": {
+        "title": "Consultation & Quote",
+        "desc": "Receive requests, consult and provide detailed quotes within 24 hours"
+      },
+      "design": {
+        "title": "Sample Design",
+        "desc": "Design samples according to requirements, revise until customer satisfaction"
+      },
+      "produce": {
+        "title": "Production",
+        "desc": "Accurate measurements, quality inspection at each stage"
+      },
+      "deliver": {
+        "title": "Delivery",
+        "desc": "Home delivery, inspection and product acceptance"
+      },
+      "viewDetail": "View detailed process"
+    },
+    "stats": {
+      "projects": "Completed Projects",
+      "clients": "Trusted Clients",
+      "satisfied": "Satisfied Customers",
+      "experience": "Years of Experience"
+    },
+    "cta": {
+      "title": "Start Your Uniform Project Today",
+      "subtitle": "Contact us for free consultation and detailed quote",
+      "contact": "Contact Now",
+      "call": "Call: 0366 333 168"
+    }
+  },
+  "contact": {
+    "pageTitle": "Contact Us",
+    "pageSubtitle": "We are ready to advise and support you",
+    "breadcrumb": "Contact",
+    "contactInfo": {
+      "title": "Contact Information",
+      "address": "📍 Address:",
+      "phone": "📞 Phone:",
+      "email": "📧 Email:",
+      "hours": "🕒 Working Hours:",
+      "taxId": "🏢 Tax ID:",
+      "workingHours": "Monday - Saturday: 8:00 - 17:00\nSunday: 8:00 - 12:00"
+    },
+    "map": {
+      "title": "Map",
+      "placeholder": "Google Maps will be integrated here"
+    },
+    "form": {
+      "title": "Send Consultation Request",
+      "name": "Full Name *",
+      "namePlaceholder": "Enter your full name",
+      "phone": "Phone Number *",
+      "phonePlaceholder": "Enter phone number",
+      "email": "Email",
+      "emailPlaceholder": "Enter email address",
+      "company": "Company/Organization",
+      "companyPlaceholder": "Enter company/organization name",
+      "service": "Service Type",
+      "serviceSelect": "-- Select service type --",
+      "serviceCorporate": "Corporate Uniforms",
+      "serviceStudent": "Student Uniforms",
+      "serviceSafety": "Safety Workwear",
+      "serviceHotel": "Restaurant - Hotel Uniforms",
+      "serviceOther": "Other",
+      "quantity": "Expected Quantity",
+      "quantityPlaceholder": "Enter quantity (sets)",
+      "message": "Request Details *",
+      "messagePlaceholder": "Describe your requirements in detail...",
+      "submit": "Send Request"
+    },
+    "features": {
+      "consult": {
+        "title": "📞 Free Consultation",
+        "desc": "We provide free consultation on design, materials and pricing. Contact us by phone or email."
+      },
+      "quote": {
+        "title": "💰 Fast Quote",
+        "desc": "Receive detailed quote within 24 hours after submitting request. Transparent pricing, no hidden costs."
+      },
+      "delivery": {
+        "title": "🚚 Home Delivery",
+        "desc": "Free delivery within Hanoi city center. On-time delivery, quality guaranteed."
+      },
+      "warranty": {
+        "title": "🛡️ Quality Warranty",
+        "desc": "Product quality warranty 3-6 months. Free exchange if there are manufacturer defects."
+      }
+    },
+    "modal": {
+      "title": "Thank you for contacting us!",
+      "message": "We have received your consultation request. Our consulting team will contact you soon.",
+      "note": "We typically respond within 24 hours.",
+      "button": "Got it"
+    }
+  },
+  "about": {
+    "pageTitle": "About the Company",
+    "pageSubtitle": "Quoc Khanh Uniform Vietnam Company Limited - Professional high-quality uniform specialist",
+    "breadcrumb": "About"
+  },
+  "services": {
+    "pageTitle": "Uniform Manufacturing Services",
+    "pageSubtitle": "Professional - Quality - Trustworthy",
+    "breadcrumb": "Services"
+  },
+  "policies": {
+    "pageTitle": "Policies",
+    "pageSubtitle": "Commitment to the best quality and service for customers",
+    "breadcrumb": "Policies",
+    "privacy": {
+      "title": "Privacy Policy for Website and Mobile Application",
+      "website": {
+        "title": "I. Privacy Policy for Website",
+        "items": [
+          "The website does not collect any personal information from users.",
+          "The website only provides information about QUOC KHANH UNIFORM VIET NAM COMPANY LIMITED.",
+          "The website does not use cookies, tracking codes, or any other tracking technology."
+        ]
+      },
+      "mobile": {
+        "title": "II. Privacy Policy for Mobile Application",
+        "items": [
+          "The mobile application is only intended to introduce QUOC KHANH UNIFORM VIET NAM COMPANY LIMITED and the company's apparel products/services.",
+          "The application does not collect any personal data from users.",
+          "The application does not require users to create an account or log in.",
+          "The application does not track user behavior, activities, or location.",
+          "The application does not use any analytics, statistics, or analytics systems."
+        ]
+      }
+    }
+  }
+}

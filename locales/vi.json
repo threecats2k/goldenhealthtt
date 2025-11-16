@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "index": {
+      "title": "Quốc Khánh Uniform - Chuyên May Đồng Phục Chất Lượng Cao Tại Hà Nội",
+      "description": "Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên sản xuất, thiết kế, gia công đồng phục công ty, đồng phục học sinh, đồng phục bảo hộ lao động, đồng phục nhà hàng khách sạn chất lượng cao tại Hà Nội"
+    },
+    "about": {
+      "title": "Giới thiệu - Quốc Khánh Uniform | Năng Lực Sản Xuất Đồng Phục",
+      "description": "Giới thiệu về Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên sản xuất và gia công đồng phục chất lượng cao với hơn 5 năm kinh nghiệm trong ngành may mặc"
+    },
+    "services": {
+      "title": "Dịch Vụ - Quốc Khánh Uniform | May Đồng Phục Chất Lượng Cao",
+      "description": "Dịch vụ may đồng phục của Quốc Khánh Uniform: Đồng phục công ty, học sinh, bảo hộ lao động, nhà hàng khách sạn. Chất lượng cao, giá cả cạnh tranh tại Hà Nội"
+    },
+    "contact": {
+      "title": "Liên Hệ - Quốc Khánh Uniform | Báo Giá & Tư Vấn Đồng Phục",
+      "description": "Liên hệ với Quốc Khánh Uniform - Chuyên sản xuất đồng phục chất lượng cao tại Hà Nội. Địa chỉ: Số 3, Tổ 4, Phường Phúc Lợi, Long Biên, Hà Nội. Điện thoại: 0366 333 168"
+    },
+    "policies": {
+      "title": "Chính Sách - Quốc Khánh Uniform | Bảo Hành - Giao Hàng - Đổi Trả",
+      "description": "Chính sách bảo hành, giao hàng và đổi trả của Quốc Khánh Uniform. Cam kết chất lượng sản phẩm và dịch vụ tốt nhất cho khách hàng"
+    },
+    "privacy": {
+      "title": "Chính Sách Bảo Mật - Quốc Khánh Uniform",
+      "description": "Chính sách bảo mật của Công ty TNHH Quốc Khánh Uniform Việt Nam - Cam kết bảo vệ thông tin khách hàng"
+    },
+    "process": {
+      "title": "Quy Trình Sản Xuất - Quốc Khánh Uniform | Từ Thiết Kế Đến Giao Hàng",
+      "description": "Quy trình sản xuất đồng phục chuyên nghiệp của Quốc Khánh Uniform: Từ tư vấn, thiết kế, sản xuất đến giao hàng. Đảm bảo chất lượng và tiến độ"
+    },
+    "portfolio": {
+      "title": "Dự Án & Khách Hàng - Quốc Khánh Uniform | Portfolio Đồng Phục",
+      "description": "Dự án và khách hàng tiêu biểu của Quốc Khánh Uniform - Hơn 500 dự án đồng phục công ty, học sinh, bảo hộ đã hoàn thành thành công"
+    },
+    "news": {
+      "title": "Tin Tức & Blog - Quốc Khánh Uniform | Cập Nhật Ngành May Mặc",
+      "description": "Tin tức và blog về ngành may mặc, xu hướng đồng phục, kinh nghiệm chọn đồng phục từ Quốc Khánh Uniform"
+    }
+  },
+  "common": {
+    "logo": "QUỐC KHÁNH UNIFORM",
+    "tagline": "Chất lượng - Uy tín - Chuyên nghiệp",
+    "phone": "0366 333 168",
+    "contactNow": "Liên hệ ngay",
+    "nav": {
+      "home": "Trang chủ",
+      "about": "Giới thiệu",
+      "services": "Dịch vụ",
+      "process": "Quy trình",
+      "portfolio": "Dự án",
+      "news": "Tin tức",
+      "policies": "Chính sách",
+      "contact": "Liên hệ"
+    },
+    "footer": {
+      "companyDesc": "Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên sản xuất và gia công đồng phục chất lượng cao tại Hà Nội",
+      "address": "Số 3, Tổ 4, Phường Phúc Lợi, Quận Long Biên, Hà Nội",
+      "email": "info@quockhanhuniform.com",
+      "services": "Dịch vụ",
+      "info": "Thông tin",
+      "support": "Hỗ trợ",
+      "corporateUniform": "Đồng phục công ty",
+      "studentUniform": "Đồng phục học sinh",
+      "safetyUniform": "Đồng phục bảo hộ",
+      "hotelUniform": "Đồng phục nhà hàng - KS",
+      "warrantyPolicy": "Chính sách bảo hành",
+      "deliveryPolicy": "Chính sách giao hàng",
+      "returnPolicy": "Chính sách đổi trả",
+      "companyInfo": "Thông tin doanh nghiệp",
+      "copyright": "2024 Công ty TNHH Quốc Khánh Uniform Việt Nam. MST: 0108735264"
+    },
+    "breadcrumb": {
+      "home": "Trang chủ"
+    }
+  },
+  "index": {
+    "hero": {
+      "title": "Chuyên Gia Đồng Phục Chất Lượng Cao",
+      "subtitle": "Sản xuất - Thiết kế - Gia công đồng phục công ty, học sinh, bảo hộ lao động với tiêu chuẩn quốc tế",
+      "viewServices": "Xem dịch vụ",
+      "getQuote": "Nhận báo giá"
+    },
+    "services": {
+      "title": "Dịch Vụ Chính",
+      "subtitle": "Chúng tôi cung cấp đầy đủ các giải pháp đồng phục cho mọi nhu cầu",
+      "corporate": {
+        "title": "Đồng Phục Công Ty",
+        "desc": "Thiết kế và may đồng phục công ty chuyên nghiệp, thể hiện thương hiệu doanh nghiệp một cách ấn tượng",
+        "detail": "Chi tiết →"
+      },
+      "student": {
+        "title": "Đồng Phục Học Sinh",
+        "desc": "Đồng phục học sinh bền đẹp, thoáng mát, phù hợp với tiêu chuẩn giáo dục Việt Nam",
+        "detail": "Chi tiết →"
+      },
+      "safety": {
+        "title": "Đồng Phục Bảo Hộ",
+        "desc": "Đồng phục bảo hộ lao động đạt tiêu chuẩn an toàn, chất lượng cao cho công nhân",
+        "detail": "Chi tiết →"
+      },
+      "hotel": {
+        "title": "Đồng Phục Nhà Hàng - Khách Sạn",
+        "desc": "Thiết kế đồng phục nhà hàng, khách sạn sang trọng, tạo ấn tượng tốt với khách hàng",
+        "detail": "Chi tiết →"
+      }
+    },
+    "whyChoose": {
+      "title": "Tại Sao Chọn Quốc Khánh Uniform?",
+      "exp": {
+        "title": "Kinh Nghiệm Chuyên Sâu",
+        "desc": "Hơn 5 năm kinh nghiệm trong ngành may mặc, hiểu rõ nhu cầu và xu hướng thị trường"
+      },
+      "quality": {
+        "title": "Chất Lượng Đảm Bảo",
+        "desc": "Sử dụng vải chất lượng cao, công nghệ may hiện đại, đảm bảo độ bền và thẩm mỹ"
+      },
+      "price": {
+        "title": "Giá Cả Cạnh Tranh",
+        "desc": "Giá thành hợp lý, báo giá minh bạch, không phát sinh chi phí ẩn"
+      },
+      "delivery": {
+        "title": "Giao Hàng Đúng Hẹn",
+        "desc": "Cam kết giao hàng đúng thời gian, đảm bảo tiến độ sản xuất cho khách hàng"
+      },
+      "support": {
+        "title": "Hỗ Trợ Tận Tâm",
+        "desc": "Đội ngũ tư vấn chuyên nghiệp, hỗ trợ thiết kế và tư vấn mẫu mã miễn phí"
+      },
+      "warranty": {
+        "title": "Chính Sách Bảo Hành",
+        "desc": "Bảo hành chất lượng sản phẩm, đổi trả nếu có lỗi từ nhà sản xuất"
+      }
+    },
+    "process": {
+      "title": "Quy Trình Làm Việc",
+      "consult": {
+        "title": "Tư Vấn & Báo Giá",
+        "desc": "Tiếp nhận yêu cầu, tư vấn và báo giá chi tiết trong 24h"
+      },
+      "design": {
+        "title": "Thiết Kế Mẫu",
+        "desc": "Thiết kế mẫu theo yêu cầu, chỉnh sửa đến khi khách hàng hài lòng"
+      },
+      "produce": {
+        "title": "Sản Xuất",
+        "desc": "May đo chính xác, kiểm tra chất lượng từng công đoạn"
+      },
+      "deliver": {
+        "title": "Giao Hàng",
+        "desc": "Giao hàng tận nơi, kiểm tra và nghiệm thu sản phẩm"
+      },
+      "viewDetail": "Xem chi tiết quy trình"
+    },
+    "stats": {
+      "projects": "Dự án hoàn thành",
+      "clients": "Khách hàng tin tưởng",
+      "satisfied": "Khách hàng hài lòng",
+      "experience": "Năm kinh nghiệm"
+    },
+    "cta": {
+      "title": "Bắt Đầu Dự Án Đồng Phục Của Bạn Ngay Hôm Nay",
+      "subtitle": "Liên hệ với chúng tôi để nhận tư vấn miễn phí và báo giá chi tiết",
+      "contact": "Liên hệ ngay",
+      "call": "Gọi: 0366 333 168"
+    }
+  },
+  "contact": {
+    "pageTitle": "Liên Hệ Với Chúng Tôi",
+    "pageSubtitle": "Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn",
+    "breadcrumb": "Liên hệ",
+    "contactInfo": {
+      "title": "Thông Tin Liên Hệ",
+      "address": "📍 Địa chỉ:",
+      "phone": "📞 Điện thoại:",
+      "email": "📧 Email:",
+      "hours": "🕒 Giờ làm việc:",
+      "taxId": "🏢 MST:",
+      "workingHours": "Thứ 2 - Thứ 7: 8:00 - 17:00\nChủ nhật: 8:00 - 12:00"
+    },
+    "map": {
+      "title": "Bản Đồ",
+      "placeholder": "Bản đồ Google Maps sẽ được tích hợp tại đây"
+    },
+    "form": {
+      "title": "Gửi Yêu Cầu Tư Vấn",
+      "name": "Họ và tên *",
+      "namePlaceholder": "Nhập họ và tên của bạn",
+      "phone": "Số điện thoại *",
+      "phonePlaceholder": "Nhập số điện thoại",
+      "email": "Email",
+      "emailPlaceholder": "Nhập địa chỉ email",
+      "company": "Công ty/Tổ chức",
+      "companyPlaceholder": "Nhập tên công ty/tổ chức",
+      "service": "Loại dịch vụ cần tư vấn",
+      "serviceSelect": "-- Chọn loại dịch vụ --",
+      "serviceCorporate": "Đồng phục công ty",
+      "serviceStudent": "Đồng phục học sinh",
+      "serviceSafety": "Đồng phục bảo hộ",
+      "serviceHotel": "Đồng phục nhà hàng - khách sạn",
+      "serviceOther": "Khác",
+      "quantity": "Số lượng dự kiến",
+      "quantityPlaceholder": "Nhập số lượng (bộ)",
+      "message": "Nội dung yêu cầu *",
+      "messagePlaceholder": "Mô tả chi tiết yêu cầu của bạn...",
+      "submit": "Gửi yêu cầu"
+    },
+    "features": {
+      "consult": {
+        "title": "📞 Tư Vấn Miễn Phí",
+        "desc": "Chúng tôi tư vấn miễn phí về thiết kế, chất liệu và giá thành. Liên hệ qua điện thoại hoặc email."
+      },
+      "quote": {
+        "title": "💰 Báo Giá Nhanh",
+        "desc": "Nhận báo giá chi tiết trong vòng 24 giờ sau khi gửi yêu cầu. Giá cả minh bạch, không phát sinh chi phí ẩn."
+      },
+      "delivery": {
+        "title": "🚚 Giao Hàng Tận Nơi",
+        "desc": "Miễn phí giao hàng trong nội thành Hà Nội. Giao hàng đúng tiến độ, đảm bảo chất lượng."
+      },
+      "warranty": {
+        "title": "🛡️ Bảo Hành Chất Lượng",
+        "desc": "Bảo hành chất lượng sản phẩm 3-6 tháng. Đổi trả miễn phí nếu có lỗi từ nhà sản xuất."
+      }
+    },
+    "modal": {
+      "title": "Cảm ơn bạn đã liên hệ!",
+      "message": "Chúng tôi đã nhận được yêu cầu tư vấn của bạn. Đội ngũ tư vấn sẽ sớm liên hệ với bạn trong thời gian sớm nhất.",
+      "note": "Thông thường chúng tôi sẽ phản hồi trong vòng 24 giờ.",
+      "button": "Đã hiểu"
+    }
+  },
+  "about": {
+    "pageTitle": "Giới Thiệu Công Ty",
+    "pageSubtitle": "Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên gia đồng phục chất lượng cao",
+    "breadcrumb": "Giới thiệu"
+  },
+  "services": {
+    "pageTitle": "Dịch Vụ Sản Xuất Đồng Phục",
+    "pageSubtitle": "Chuyên nghiệp - Chất lượng - Uy tín",
+    "breadcrumb": "Dịch vụ"
+  },
+  "policies": {
+    "pageTitle": "Chính Sách",
+    "pageSubtitle": "Cam kết chất lượng và dịch vụ tốt nhất cho khách hàng",
+    "breadcrumb": "Chính sách",
+    "privacy": {
+      "title": "Chính sách bảo mật cho Website và Ứng dụng di động",
+      "website": {
+        "title": "I. Chính sách bảo mật dành cho Website",
+        "items": [
+          "Website không thu thập bất kỳ thông tin cá nhân nào của người dùng.",
+          "Website chỉ cung cấp thông tin về doanh nghiệp CÔNG TY TNHH QUỐC KHÁNH UNIFORM VIỆT NAM.",
+          "Website không sử dụng cookie, tracking code hoặc bất kỳ công nghệ theo dõi nào khác."
+        ]
+      },
+      "mobile": {
+        "title": "II. Chính sách bảo mật dành cho Ứng dụng di động",
+        "items": [
+          "Ứng dụng di động chỉ nhằm giới thiệu về CÔNG TY TNHH QUỐC KHÁNH UNIFORM VIỆT NAM và các sản phẩm/dịch vụ may mặc của công ty.",
+          "Ứng dụng không thu thập bất kỳ dữ liệu cá nhân nào từ người dùng.",
+          "Ứng dụng không yêu cầu người dùng tạo tài khoản hoặc đăng nhập.",
+          "Ứng dụng không theo dõi hành vi, hoạt động hoặc vị trí của người dùng.",
+          "Ứng dụng không sử dụng bất kỳ hệ thống phân tích, thống kê hay analytics nào."
+        ]
+      }
+    }
+  }
+}
