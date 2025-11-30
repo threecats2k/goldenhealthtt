@@ -8,16 +8,12 @@ const htmlFiles = [
     'about.html',
     'services.html',
     'contact.html',
-    'policies.html',
-    'process.html',
-    'portfolio.html',
-    'news.html',
     'company-info.html'
 ];
 
 // Common header pattern with i18n
 const headerTemplate = `    <link rel="stylesheet" href="css/styles.css">
-    <link rel="canonical" href="https://uniform-quockhanh.store/">
+    <link rel="canonical" href="https://caugiayhotel.store/">
     <script src="js/i18n.js" defer></script>
 </head>
 <body>
@@ -30,7 +26,7 @@ const headerTemplate = `    <link rel="stylesheet" href="css/styles.css">
                     <p class="tagline" data-i18n="common.tagline">Chất lượng - Uy tín - Chuyên nghiệp</p>
                 </div>
                 <div class="header-contact">
-                    <a href="tel:0366333168" class="phone-link">📞 <span data-i18n="common.phone">0366 333 168</span></a>
+                    <a href="tel:02432212666" class="phone-link">📞 <span data-i18n="common.phone">024 32212666</span></a>
                     <a href="contact.html" class="btn btn-primary" data-i18n="common.contactNow">Liên hệ ngay</a>
                 </div>
             </div>
@@ -39,10 +35,6 @@ const headerTemplate = `    <link rel="stylesheet" href="css/styles.css">
                     <li><a href="index.html" data-i18n="common.nav.home">Trang chủ</a></li>
                     <li><a href="about.html" data-i18n="common.nav.about">Giới thiệu</a></li>
                     <li><a href="services.html" data-i18n="common.nav.services">Dịch vụ</a></li>
-                    <li><a href="process.html" data-i18n="common.nav.process">Quy trình</a></li>
-                    <li><a href="portfolio.html" data-i18n="common.nav.portfolio">Dự án</a></li>
-                    <li><a href="news.html" data-i18n="common.nav.news">Tin tức</a></li>
-                    <li><a href="policies.html" data-i18n="common.nav.policies">Chính sách</a></li>
                     <li><a href="contact.html" data-i18n="common.nav.contact">Liên hệ</a></li>
                 </ul>
                 <button class="mobile-menu-toggle" aria-label="Toggle menu" data-i18n-aria-label="common.nav.menu">☰</button>
