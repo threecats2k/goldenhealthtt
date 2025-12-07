@@ -363,7 +363,7 @@ section {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=1920') center/cover;
+    background: url('../images/hero-background.jpg') center/cover;
     opacity: 0.2;
 }
 
@@ -680,7 +680,7 @@ section {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=1920') center/cover;
+    background: url('../images/hero-background.jpg') center/cover;
     opacity: 0.15;
     z-index: 0;
 }
