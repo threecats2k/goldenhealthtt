@@ -13,7 +13,7 @@ const htmlFiles = [
 
 // Common header pattern with i18n
 const headerTemplate = `    <link rel="stylesheet" href="css/styles.css">
-    <link rel="canonical" href="https://caugiayhotel.store/">
+    <link rel="canonical" href="https://goldenthientam.store/">
     <script src="js/i18n.js" defer></script>
 </head>
 <body>

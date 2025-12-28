@@ -6,7 +6,7 @@
     
     <!-- Homepage -->
     <url>
-        <loc></loc>
+        <loc>https://goldenthientam.store/</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -14,7 +14,7 @@
     
     <!-- About Page -->
     <url>
-        <loc>about.html</loc>
+        <loc>https://goldenthientam.store/about.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -22,7 +22,7 @@
     
     <!-- Services Page -->
     <url>
-        <loc>services.html</loc>
+        <loc>https://goldenthientam.store/services.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -30,7 +30,7 @@
     
     <!-- Contact Page -->
     <url>
-        <loc>contact.html</loc>
+        <loc>https://goldenthientam.store/contact.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -38,7 +38,7 @@
     
     <!-- Company Info Page -->
     <url>
-        <loc>company-info.html</loc>
+        <loc>https://goldenthientam.store/company-info.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -46,7 +46,7 @@
     
     <!-- Privacy Policy Page -->
     <url>
-        <loc>privacy-policy.html</loc>
+        <loc>https://goldenthientam.store/privacy-policy.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
