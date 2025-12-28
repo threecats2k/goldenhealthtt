@@ -1,55 +1,47 @@
 {
   "meta": {
     "index": {
-      "title": "CAUGIAY HST - Premium Accommodation Experience in Cau Giay, Hanoi",
-      "description": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Premium accommodation experience in Cau Giay, Hanoi. The perfect choice for short stays and business trips"
+      "title": "GOLDEN HEALTH THIEN TAM - Traditional Medicine Clinic",
+      "description": "GOLDEN HEALTH THIEN TAM CO., LTD - Professional traditional medicine clinic in Ho Chi Minh City. Reliable and quality traditional medicine diagnosis and treatment"
     },
     "about": {
-      "title": "About Us - CAUGIAY HST | About Our Company",
-      "description": "About CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD). Legal information, mission and core values"
+      "title": "About Us - GOLDEN HEALTH THIEN TAM | About Our Company",
+      "description": "About GOLDEN HEALTH THIEN TAM CO., LTD. Legal information, mission and core values of our traditional medicine clinic"
     },
     "services": {
-      "title": "Services - CAUGIAY HST | Accommodation Services & Amenities",
-      "description": "CAUGIAY HST's accommodation services & amenities: Comfortable rooms, free Wi-Fi, 24/7 room service. Premium accommodation experience in Cau Giay, Hanoi"
+      "title": "Services - GOLDEN HEALTH THIEN TAM | Medical Services",
+      "description": "Traditional medicine medical services of GOLDEN HEALTH THIEN TAM"
     },
     "contact": {
-      "title": "Contact - CAUGIAY HST | Booking & Consultation",
-      "description": "Contact CAUGIAY HST - Book a room or consult about accommodation services. Address: No. 18, Alley 6/41 Tran Quoc Hoan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi. Phone: 024 32212666"
-    },
-    "privacy": {
-      "title": "Privacy Policy - CAUGIAY HST",
-      "description": "Privacy policy of CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Commitment to protecting customer information"
+      "title": "Contact - GOLDEN HEALTH THIEN TAM | Consultation & Appointment",
+      "description": "Contact GOLDEN HEALTH THIEN TAM - Consultation and appointment booking. Address: 193/1A Tam Chau Street, Ward 51, Tam Binh Ward, Ho Chi Minh City. Phone: 0865 100 018"
     }
   },
   "common": {
-    "logo": "CAUGIAY HST CO.,LTD",
-    "tagline": "Dedication - Quality - Comfort",
-    "phone": "024 32212666",
-    "contactNow": "Book Now",
+    "logo": "GOLDEN HEALTH THIEN TAM",
+    "tagline": "Traditional Medicine - Trust - Quality",
+    "phone": "0865 100 018",
+    "contactNow": "Contact",
     "nav": {
       "home": "Home",
       "about": "About",
-      "rooms": "Rooms",
       "services": "Services",
-      "gallery": "Gallery",
       "contact": "Contact",
-      "booking": "Booking",
       "menu": "Menu"
     },
     "footer": {
-      "companyDesc": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Premium accommodation experience in Cau Giay, Hanoi",
-      "address": "No. 18, Alley 6/41 Tran Quoc Hoan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi",
-      "email": "cghotel1206@gmail.com",
+      "companyDesc": "GOLDEN HEALTH THIEN TAM CO., LTD - Professional traditional medicine clinic in Ho Chi Minh City",
+      "address": "193/1A Tam Chau Street, Ward 51, Tam Binh Ward, Ho Chi Minh City, Vietnam",
       "services": "Services",
       "info": "Information",
       "support": "Support",
-      "accommodation": "Accommodation Services",
-      "amenities": "Hotel Amenities",
-      "roomService": "24/7 Room Service",
-      "wifi": "Free Wi-Fi",
+      "clinic": "Traditional Medicine Consultation",
+      "treatment": "Medical Treatment",
+      "herbal": "Traditional Medicine",
+      "consultation": "Health Consultation",
       "aboutUs": "About Us",
       "companyInfo": "Company Information",
-      "copyright": "2024 CAUGIAY HST CO.,LTD. Tax ID: 0108599237"
+      "copyright": "2024 GOLDEN HEALTH THIEN TAM CO., LTD. Tax ID: 0319246801"
     },
     "breadcrumb": {
       "home": "Home"
@@ -57,71 +49,71 @@
   },
   "index": {
     "hero": {
-      "title": "Premium Accommodation Experience in Cau Giay, Hanoi",
-      "subtitle": "The perfect choice for short stays and business trips",
-      "bookNow": "Book Now",
+      "title": "Professional Traditional Medicine Clinic",
+      "subtitle": "GOLDEN HEALTH THIEN TAM - Reliable and quality traditional medicine healthcare",
+      "contact": "Contact Now",
       "learnMore": "Learn More"
     },
     "about": {
-      "title": "Welcome to CAUGIAY HST",
-      "subtitle": "We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality. At CAUGIAY HST, every detail is carefully crafted to ensure maximum customer satisfaction."
+      "title": "Welcome to GOLDEN HEALTH THIEN TAM",
+      "subtitle": "We are a professional traditional medicine clinic committed to providing high-quality traditional medicine diagnosis and treatment services. With experienced doctors and safe, effective treatment methods, we are proud to serve the community."
     },
     "services": {
-      "title": "Accommodation Services & Amenities",
-      "subtitle": "Discover premium services and amenities at our hotel",
-      "rooms": {
-        "title": "Comfortable Rooms",
-        "desc": "Clean, modern rooms with full amenities, spacious space and natural light",
+      "title": "Medical Services",
+      "subtitle": "Discover our professional traditional medicine services",
+      "clinic": {
+        "title": "Traditional Medicine Consultation",
+        "desc": "Comprehensive diagnosis using traditional medicine methods, accurate diagnosis and appropriate treatment consultation",
         "detail": "Details →"
       },
-      "wifi": {
-        "title": "Free Wi-Fi",
-        "desc": "High-speed internet connection free throughout the hotel area, serving work and entertainment",
+      "treatment": {
+        "title": "Medical Treatment",
+        "desc": "Treatment of diseases using safe and effective traditional medicine methods with minimal side effects",
         "detail": "Details →"
       },
-      "service": {
-        "title": "24/7 Room Service",
-        "desc": "Professional staff ready to serve you 24/7 with dedicated and attentive attitude",
+      "herbal": {
+        "title": "Traditional Medicine",
+        "desc": "High-quality traditional medicine prepared according to traditional methods",
         "detail": "Details →"
       },
-      "location": {
-        "title": "Convenient Location",
-        "desc": "Located in the center of Cau Giay District, easy access to tourist attractions and business areas",
+      "consultation": {
+        "title": "Health Consultation",
+        "desc": "Consultation on nutrition, lifestyle and health care methods according to traditional medicine",
         "detail": "Details →"
       }
     },
     "whyChoose": {
-      "title": "Why Choose CAUGIAY HST?",
-      "dedication": {
-        "title": "Dedicated Service",
-        "desc": "Professional staff, always ready to serve with dedicated and attentive attitude"
+      "title": "Why Choose GOLDEN HEALTH THIEN TAM?",
+      "experience": {
+        "title": "Professional Team",
+        "desc": "Experienced doctors with specialized training in traditional medicine"
       },
       "quality": {
         "title": "Service Quality",
-        "desc": "Commitment to providing high-quality accommodation services with clean, comfortable and modern spaces"
+        "desc": "Commitment to providing high-quality, safe and effective medical services"
       },
-      "comfort": {
-        "title": "Comfortable Space",
-        "desc": "Rooms fully equipped with amenities, spacious space creating absolute relaxation"
+      "traditional": {
+        "title": "Traditional Methods",
+        "desc": "Application of traditional medicine methods proven over generations"
       },
-      "location": {
-        "title": "Convenient Location",
-        "desc": "Located in the center of Cau Giay District, easy access to tourist attractions and business areas"
+      "safety": {
+        "title": "Safe, No Side Effects",
+        "desc": "Treatment with natural herbs, safe with fewer side effects compared to Western medicine"
       },
-      "wifi": {
-        "title": "Free Wi-Fi",
-        "desc": "High-speed internet connection free throughout the hotel area, serving work and entertainment"
+      "comprehensive": {
+        "title": "Comprehensive Care",
+        "desc": "Not only treating symptoms but also caring for the patient's overall health"
       },
-      "service": {
-        "title": "24/7 Service",
-        "desc": "Room service and customer support 24/7, ensuring all your needs are met"
+      "trust": {
+        "title": "Trustworthy",
+        "desc": "Licensed clinic operating in full compliance with medical regulations"
       }
     },
     "cta": {
-      "title": "Experience Premium Accommodation Today",
-      "subtitle": "Contact us to book a room or learn more about our services",
-      "contact": "Book Now",
-      "call": "Call: 024 32212666"
+      "title": "Take Care of Your Health Today",
+      "subtitle": "Contact us for consultation and appointment booking",
+      "contact": "Contact Now",
+      "call": "Call: 0865 100 018"
     }
   },
   "contact": {
@@ -130,50 +122,47 @@
     "breadcrumb": "Contact",
     "contactInfo": {
       "title": "Contact Information",
+      "subtitle": "Connect with us through the channels below",
+      "addressLabel": "Address",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
       "address": "📍 Address:",
       "phone": "📞 Phone:",
       "email": "📧 Email:",
-      "hours": "🕒 Service Hours:",
-      "taxId": "🏢 Tax ID:",
-      "workingHours": "24/7 - Accommodation services and customer support"
+      "hours": "🕒 Working Hours:",
+      "workingHours": "By appointment - Please contact before visiting"
     },
     "map": {
-      "title": "Directions Map",
-      "address": "📍 No. 18, Alley 6/41 Tran Quoc Hoan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi"
+      "title": "Find Us on Map",
+      "address": "📍 193/1A Tam Chau Street, Ward 51, Tam Binh Ward, Ho Chi Minh City, Vietnam"
     },
     "form": {
-      "title": "Send Booking/Consultation Request",
+      "title": "Send Consultation Request",
+      "subtitle": "Fill out the form below to book an appointment or consultation. We will contact you as soon as possible",
       "name": "Full Name *",
-      "namePlaceholder": "Enter your full name",
+      "namePlaceholder": "John Doe",
       "phone": "Phone Number *",
-      "phonePlaceholder": "Enter phone number",
+      "phonePlaceholder": "(+84) 123 456 789",
       "email": "Email",
-      "emailPlaceholder": "Enter email address",
-      "service": "Request Type",
-      "serviceSelect": "-- Select request type --",
-      "serviceBooking": "Room Booking",
-      "serviceConsultation": "Service Consultation",
-      "serviceOther": "Other",
-      "checkin": "Check-in Date (if booking)",
-      "checkinPlaceholder": "Select date",
-      "message": "Request Details *",
-      "messagePlaceholder": "Describe your requirements in detail...",
+      "emailPlaceholder": "email@example.com",
+      "message": "Message",
+      "messagePlaceholder": "Your message...",
       "submit": "Send Request"
     },
     "modal": {
       "title": "Thank you for contacting us!",
-      "message": "We have received your booking/consultation request. Our staff will contact you soon.",
-      "note": "We typically respond within 24 hours.",
+      "message": "We have received your consultation/appointment request. Our staff will contact you as soon as possible",
+      "note": "We typically respond within 24 hours",
       "button": "Got it"
     }
   },
   "about": {
     "pageTitle": "About Us",
-    "pageSubtitle": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD)",
+    "pageSubtitle": "GOLDEN HEALTH THIEN TAM TRADING SERVICE COMPANY LIMITED (GOLDEN HEALTH THIEN TAM CO., LTD)",
     "breadcrumb": "About",
     "intro": {
-      "title": "About CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY",
-      "desc": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD) was established on January 23, 2019, specializing in short-term accommodation services (Hotel). We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality."
+      "title": "About GOLDEN HEALTH THIEN TAM TRADING SERVICE COMPANY LIMITED",
+      "desc": "GOLDEN HEALTH THIEN TAM TRADING SERVICE COMPANY LIMITED (GOLDEN HEALTH THIEN TAM CO., LTD) is a professional traditional medicine clinic operating in the field of traditional medicine diagnosis and treatment. We are committed to providing high-quality, safe and effective healthcare services to the community."
     },
     "legal": {
       "title": "Legal Information",
@@ -182,18 +171,20 @@
       "taxID": "Tax ID:",
       "address": "Address:",
       "representative": "Representative:",
-      "foundingDate": "Establishment Date (Operation):",
-      "industry": "Main Industry:"
+      "foundingDate": "Activity Date:",
+      "industry": "Main Industry:",
+      "status": "Status:"
     },
     "mission": {
       "title": "Mission & Core Values",
       "missionTitle": "Mission",
-      "missionDesc": "We are committed to providing you with a premium accommodation experience with dedicated service, comfortable spaces and the highest quality of service. Every customer is treated with respect and careful attention.",
+      "missionDesc": "We are committed to providing high-quality, safe and effective traditional medicine diagnosis and treatment services. Each patient is cared for with dedication, attentiveness and respect. We aim to contribute to protecting and improving community health through traditional medicine methods proven over generations.",
       "valuesTitle": "Core Values",
       "values": [
-        "Dedication: Professional staff, always ready to serve with dedicated and attentive attitude",
-        "Service Quality: Commitment to providing high-quality accommodation services with clean, comfortable and modern spaces",
-        "Comfortable Space: Rooms fully equipped with amenities, spacious space creating absolute relaxation"
+        "Professional: Experienced doctors with specialized training in traditional medicine",
+        "Quality: Commitment to providing high-quality, safe and effective medical services",
+        "Trust: Licensed clinic operating in full compliance with medical regulations",
+        "Dedication: Patient care with dedication, attentiveness and respect"
       ]
     },
     "contact": {
@@ -201,74 +192,74 @@
       "headquarters": "Address:",
       "phone": "Phone:",
       "email": "Email:",
-      "workingHours": "Service Hours:",
-      "hours": "24/7 - Accommodation services and customer support"
+      "workingHours": "Working Hours:",
+      "hours": "By appointment - Please contact before visiting"
     }
   },
   "services": {
-    "pageTitle": "Accommodation Services & Amenities",
-    "pageSubtitle": "Premium accommodation experience in Cau Giay, Hanoi",
+    "pageTitle": "Medical Services",
+    "pageSubtitle": "Professional traditional medicine services in Ho Chi Minh City",
     "breadcrumb": "Services",
-    "rooms": {
-      "title": "🛏️ Comfortable Rooms",
-      "desc": "Clean, modern rooms with full amenities, spacious space and natural light. Each room is fully equipped to ensure comfort and convenience for guests.",
-      "featuresTitle": "Room Amenities",
+    "clinic": {
+      "title": "🏥 Traditional Medicine Consultation",
+      "desc": "We provide comprehensive diagnosis services using traditional medicine methods. Doctors will conduct general examination, diagnose conditions and consult the most appropriate treatment methods for each patient.",
+      "featuresTitle": "Consultation Process",
       "features": [
         {
-          "title": "Comfortable Beds",
-          "desc": "Spacious double beds with high-quality mattresses, clean bed linens, ensuring good sleep"
+          "title": "General Examination",
+          "desc": "General examination to assess the patient's overall health condition"
         },
         {
-          "title": "Spacious Space",
-          "desc": "Rooms with spacious space, natural light, creating absolute relaxation"
+          "title": "Disease Diagnosis",
+          "desc": "Accurate diagnosis based on traditional medicine methods"
         },
         {
-          "title": "Clean & Hygienic",
-          "desc": "Rooms are thoroughly cleaned daily, ensuring clean and safe environment"
+          "title": "Treatment Consultation",
+          "desc": "Consultation on the most appropriate and effective treatment methods"
         },
         {
-          "title": "Full Amenities",
-          "desc": "Wardrobe, work desk, TV, air conditioning, mini fridge and other necessary amenities"
+          "title": "Progress Monitoring",
+          "desc": "Monitor and evaluate treatment progress to adjust treatment plans when needed"
         }
       ]
     },
-    "wifi": {
-      "title": "📶 Free Wi-Fi",
-      "desc": "High-speed internet connection free throughout the hotel area, serving work and entertainment. Guests can work, study or enjoy online entertainment conveniently.",
+    "treatment": {
+      "title": "💊 Medical Treatment",
+      "desc": "We treat diseases using safe and effective traditional medicine methods. Treatment methods are personalized for each patient to achieve optimal results.",
+      "featuresTitle": "Treatment Methods",
+      "features": [
+        "Treatment with traditional medicine",
+        "Acupuncture and acupressure",
+        "Massage and therapeutic massage",
+        "Consultation on nutrition and lifestyle"
+      ]
+    },
+    "herbal": {
+      "title": "🌿 Traditional Medicine",
+      "desc": "We provide high-quality traditional medicine prepared from natural herbs according to traditional methods. All medicines are quality tested and safe for use.",
       "featuresTitle": "Features",
       "features": [
-        "High-speed, stable internet 24/7",
-        "Coverage throughout the hotel area",
-        "Free for all guests",
-        "High security, safe for work"
+        "Medicine prepared from natural herbs",
+        "Quality tested and safe",
+        "Prepared according to traditional methods",
+        "Detailed usage instructions for each type of medicine"
       ]
     },
-    "service": {
-      "title": "🕐 24/7 Room Service",
-      "desc": "Professional staff ready to serve you 24/7 with dedicated and attentive attitude. All your requests are met quickly and efficiently.",
-      "featuresTitle": "Services Provided",
+    "consultation": {
+      "title": "👨‍⚕️ Health Consultation",
+      "desc": "We provide consultation services on nutrition, lifestyle and health care methods according to traditional medicine. Consultations are conducted by experienced doctors.",
+      "featuresTitle": "Consultation Content",
       "features": [
-        "Flexible booking and check-in/check-out support",
-        "Daily room cleaning service",
-        "24/7 customer support via phone",
-        "Consultation and support on locations, transportation"
+        "Consultation on appropriate nutrition",
+        "Guidance on healthy lifestyle",
+        "Consultation on disease prevention methods",
+        "Guidance on home health care"
       ]
     },
-    "location": {
-      "title": "📍 Convenient Location",
-      "desc": "Located in the center of Cau Giay District, easy access to tourist attractions and business areas. Convenient location for both tourists and business travelers.",
-      "advantagesTitle": "Location Advantages",
-      "advantages": [
-        "Near city center, easy to move around",
-        "Close to tourist attractions, shopping and entertainment",
-        "Convenient for business travelers, near business areas",
-        "Easy access to public transportation"
-      ]
-    },
-    "ctaTitle": "Need to Book or Consult?",
-    "ctaDesc": "Contact us to book a room or learn more about our services",
-    "ctaContact": "Book Now",
-    "ctaCall": "Call: 024 32212666"
+    "ctaTitle": "Need Consultation or Appointment?",
+    "ctaDesc": "Contact us for consultation and appointment booking",
+    "ctaContact": "Contact Now",
+    "ctaCall": "Call: 0865 100 018"
   },
   "companyInfo": {
     "pageTitle": "Company Information",
@@ -287,7 +278,7 @@
         "taxAddress": "Tax Address:",
         "headquarters": "Headquarters Address:",
         "phone": "Phone:",
-        "email": "Email:"
+        "companyType": "Company Type:"
       },
       "statusActive": "Active"
     },
@@ -295,34 +286,30 @@
       "title": "Business Industry Information",
       "mainIndustry": {
         "label": "Main Industry:",
-        "value": "Short-term accommodation services (Hotel)"
+        "value": "Activities of general, specialized and dental clinics"
       },
       "activityAreas": {
-        "label": "Activity Areas:",
+        "label": "Details:",
         "items": [
-          "Short-term accommodation services",
-          "Room rental",
-          "24/7 room service",
-          "Hotel amenities (Wi-Fi, room service)"
+          "Traditional medicine diagnosis and treatment",
+          "Treatment of diseases using traditional medicine methods",
+          "Provision of traditional medicine",
+          "Health consultation and health care"
         ]
       }
     },
     "contactInfo": {
       "title": "Contact Information",
       "workingHours": {
-        "label": "Service Hours:",
-        "value": "24/7 - Accommodation and customer support services"
-      },
-      "website": {
-        "label": "Website:",
-        "value": "https://caugiayhotel.store"
+        "label": "Working Hours:",
+        "value": "By appointment - Please contact before visiting"
       }
     },
     "cta": {
       "title": "Need to Contact Us?",
-      "desc": "We are ready to consult and support you",
+      "desc": "We are ready to advise and support you",
       "contact": "Contact Now",
-      "call": "Call: 024 32212666"
+      "call": "Call: 0865 100 018"
     }
   }
 }

@@ -1,51 +1,47 @@
 {
   "meta": {
     "index": {
-      "title": "CAUGIAY HST - Trải Nghiệm Lưu Trú Đẳng Cấp Tại Cầu Giấy, Hà Nội",
-      "description": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Trải nghiệm lưu trú đẳng cấp tại Cầu Giấy, Hà Nội. Sự lựa chọn hoàn hảo cho kỳ nghỉ ngắn ngày và chuyến công tác của bạn"
+      "title": "GOLDEN HEALTH THIEN TAM - Phòng Khám Y Học Cổ Truyền",
+      "description": "GOLDEN HEALTH THIEN TAM CO., LTD - Phòng khám y học cổ truyền chuyên nghiệp tại TP. Hồ Chí Minh. Khám bệnh, chữa bệnh bằng y học cổ truyền uy tín, chất lượng"
     },
     "about": {
-      "title": "Giới thiệu - CAUGIAY HST | Về Chúng Tôi",
-      "description": "Về Chúng Tôi - CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD). Thông tin pháp lý, sứ mệnh và giá trị cốt lõi của chúng tôi"
+      "title": "Giới thiệu - GOLDEN HEALTH THIEN TAM | Về Chúng Tôi",
+      "description": "Về Chúng Tôi - GOLDEN HEALTH THIEN TAM CO., LTD. Thông tin pháp lý, sứ mệnh và giá trị cốt lõi của phòng khám y học cổ truyền"
     },
     "services": {
-      "title": "Dịch Vụ - CAUGIAY HST | Dịch Vụ Lưu Trú & Tiện Ích",
-      "description": "Dịch vụ lưu trú & tiện ích của CAUGIAY HST: Phòng ốc tiện nghi, Wi-Fi miễn phí, dịch vụ phòng 24/7. Trải nghiệm lưu trú đẳng cấp tại Cầu Giấy, Hà Nội"
+      "title": "Dịch Vụ - GOLDEN HEALTH THIEN TAM | Dịch Vụ Khám Chữa Bệnh",
+      "description": "Dịch vụ khám chữa bệnh y học cổ truyền của GOLDEN HEALTH THIEN TAM"
     },
     "contact": {
-      "title": "Liên Hệ - CAUGIAY HST | Đặt Phòng & Tư Vấn",
-      "description": "Liên hệ với CAUGIAY HST - Đặt phòng hoặc tư vấn dịch vụ lưu trú. Địa chỉ: Số 18 ngách 6/41 phố Trần Quốc Hoàn, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội. Điện thoại: 024 32212666"
+      "title": "Liên Hệ - GOLDEN HEALTH THIEN TAM | Tư Vấn & Đặt Lịch Khám",
+      "description": "Liên hệ với GOLDEN HEALTH THIEN TAM - Tư vấn và đặt lịch khám. Địa chỉ: 193/1A đường Tam Châu, Khu Phố 51, Phường Tam Bình, TP. Hồ Chí Minh. Điện thoại: 0865 100 018"
     }
   },
   "common": {
-    "logo": "CAUGIAY HST CO.,LTD",
-    "tagline": "Tận Tâm - Chất Lượng - Tiện Nghi",
-    "phone": "024 32212666",
-    "contactNow": "Đặt phòng ngay",
+    "logo": "GOLDEN HEALTH THIEN TAM",
+    "tagline": "Y Học Cổ Truyền - Uy Tín - Chất Lượng",
+    "phone": "0865 100 018",
+    "contactNow": "Liên hệ",
     "nav": {
       "home": "Trang chủ",
       "about": "Giới thiệu",
-      "rooms": "Phòng nghỉ",
       "services": "Dịch vụ",
-      "gallery": "Thư viện ảnh",
       "contact": "Liên hệ",
-      "booking": "Đặt phòng",
       "menu": "Menu"
     },
     "footer": {
-      "companyDesc": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Trải nghiệm lưu trú đẳng cấp tại Cầu Giấy, Hà Nội",
-      "address": "Số 18 ngách 6/41 phố Trần Quốc Hoàn, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",
-      "email": "cghotel1206@gmail.com",
+      "companyDesc": "GOLDEN HEALTH THIEN TAM CO., LTD - Phòng khám y học cổ truyền chuyên nghiệp tại TP. Hồ Chí Minh",
+      "address": "193/1A đường Tam Châu, Khu Phố 51, Phường Tam Bình, TP. Hồ Chí Minh, Việt Nam",
       "services": "Dịch vụ",
       "info": "Thông tin",
       "support": "Hỗ trợ",
-      "accommodation": "Dịch vụ lưu trú",
-      "amenities": "Tiện ích khách sạn",
-      "roomService": "Dịch vụ phòng 24/7",
-      "wifi": "Wi-Fi miễn phí",
+      "clinic": "Khám bệnh y học cổ truyền",
+      "treatment": "Điều trị bệnh",
+      "herbal": "Thuốc y học cổ truyền",
+      "consultation": "Tư vấn sức khỏe",
       "aboutUs": "Về chúng tôi",
       "companyInfo": "Thông tin doanh nghiệp",
-      "copyright": "2024 CAUGIAY HST CO.,LTD. MST: 0108599237"
+      "copyright": "2024 GOLDEN HEALTH THIEN TAM CO., LTD. MST: 0319246801"
     },
     "breadcrumb": {
       "home": "Trang chủ"
@@ -53,119 +49,96 @@
   },
   "index": {
     "hero": {
-      "title": "Trải Nghiệm Lưu Trú Đẳng Cấp Tại Cầu Giấy, Hà Nội",
-      "subtitle": "Sự lựa chọn hoàn hảo cho kỳ nghỉ ngắn ngày và chuyến công tác của bạn",
-      "bookNow": "Đặt Phòng Ngay",
+      "title": "Phòng Khám Y Học Cổ Truyền Chuyên Nghiệp",
+      "subtitle": "GOLDEN HEALTH THIEN TAM - Chăm sóc sức khỏe bằng phương pháp y học cổ truyền uy tín, chất lượng",
+      "contact": "Liên Hệ Ngay",
       "learnMore": "Tìm Hiểu Thêm"
     },
     "about": {
-      "title": "Chào Mừng Đến Với CAUGIAY HST",
-      "subtitle": "Chúng tôi cam kết mang đến cho quý khách trải nghiệm lưu trú tuyệt vời với không gian tiện nghi, dịch vụ tận tâm và chất lượng đẳng cấp. Tại CAUGIAY HST, mỗi chi tiết đều được chăm chút để đảm bảo sự hài lòng tối đa của khách hàng."
+      "title": "Chào Mừng Đến Với GOLDEN HEALTH THIEN TAM",
+      "subtitle": "Chúng tôi là phòng khám y học cổ truyền chuyên nghiệp, cam kết mang đến dịch vụ khám chữa bệnh chất lượng cao bằng phương pháp y học cổ truyền. Với đội ngũ bác sĩ giàu kinh nghiệm và phương pháp điều trị an toàn, hiệu quả, chúng tôi tự hào phục vụ cộng đồng."
     },
     "services": {
-      "title": "Dịch Vụ Lưu Trú & Tiện Ích",
-      "subtitle": "Khám phá các dịch vụ và tiện ích đẳng cấp tại khách sạn của chúng tôi",
-      "rooms": {
-        "title": "Phòng Ốc Tiện Nghi",
-        "desc": "Phòng nghỉ sạch sẽ, hiện đại với đầy đủ tiện nghi, không gian thoáng đãng và ánh sáng tự nhiên",
+      "title": "Dịch Vụ Khám Chữa Bệnh",
+      "subtitle": "Khám phá các dịch vụ y học cổ truyền chuyên nghiệp của chúng tôi",
+      "clinic": {
+        "title": "Khám Bệnh Y Học Cổ Truyền",
+        "desc": "Khám bệnh toàn diện bằng phương pháp y học cổ truyền, chẩn đoán chính xác và tư vấn điều trị phù hợp",
         "detail": "Chi tiết →"
       },
-      "wifi": {
-        "title": "Wi-Fi Miễn Phí",
-        "desc": "Kết nối internet tốc độ cao miễn phí trong toàn bộ khu vực khách sạn, phục vụ công việc và giải trí",
+      "treatment": {
+        "title": "Điều Trị Bệnh",
+        "desc": "Điều trị các bệnh lý bằng phương pháp y học cổ truyền an toàn, hiệu quả, không tác dụng phụ",
         "detail": "Chi tiết →"
       },
-      "service": {
-        "title": "Dịch Vụ Phòng 24/7",
-        "desc": "Đội ngũ nhân viên chuyên nghiệp sẵn sàng phục vụ quý khách 24/7 với thái độ tận tâm, chu đáo",
+      "herbal": {
+        "title": "Thuốc Y Học Cổ Truyền",
+        "desc": "Cung cấp thuốc y học cổ truyền chất lượng cao, được bào chế theo phương pháp truyền thống",
         "detail": "Chi tiết →"
       },
-      "location": {
-        "title": "Vị Trí Thuận Tiện",
-        "desc": "Tọa lạc tại trung tâm quận Cầu Giấy, dễ dàng di chuyển đến các điểm du lịch và khu vực kinh doanh",
+      "consultation": {
+        "title": "Tư Vấn Sức Khỏe",
+        "desc": "Tư vấn về chế độ dinh dưỡng, sinh hoạt và phương pháp chăm sóc sức khỏe theo y học cổ truyền",
         "detail": "Chi tiết →"
-      }
-    },
-    "rooms": {
-      "title": "Các Loại Phòng",
-      "subtitle": "Khám phá các loại phòng nghỉ đẳng cấp của chúng tôi",
-      "filterAll": "Tất cả",
-      "filterCapacity2": "Sức chứa: 2 người",
-      "filterCapacity4": "Sức chứa: 4 người",
-      "filterBedKing": "Loại giường: King",
-      "filterBedQueen": "Loại giường: Queen",
-      "viewDetails": "Xem chi tiết",
-      "deluxeSea": {
-        "title": "Phòng Deluxe Hướng Biển",
-        "price": "Từ 2.500.000 VNĐ / đêm"
-      },
-      "presidential": {
-        "title": "Suite Tổng Thống",
-        "price": "Từ 5.000.000 VNĐ / đêm"
-      },
-      "standard": {
-        "title": "Phòng Standard Cao Cấp",
-        "price": "Từ 1.800.000 VNĐ / đêm"
       }
     },
     "whyChoose": {
-      "title": "Tại Sao Chọn CAUGIAY HST?",
-      "dedication": {
-        "title": "Tận Tâm Phục Vụ",
-        "desc": "Đội ngũ nhân viên chuyên nghiệp, luôn sẵn sàng phục vụ với thái độ tận tâm và chu đáo"
+      "title": "Tại Sao Chọn GOLDEN HEALTH THIEN TAM?",
+      "experience": {
+        "title": "Đội Ngũ Chuyên Nghiệp",
+        "desc": "Đội ngũ bác sĩ giàu kinh nghiệm, được đào tạo chuyên sâu về y học cổ truyền"
       },
       "quality": {
         "title": "Chất Lượng Dịch Vụ",
-        "desc": "Cam kết mang đến dịch vụ lưu trú chất lượng cao với không gian sạch sẽ, tiện nghi và hiện đại"
+        "desc": "Cam kết mang đến dịch vụ khám chữa bệnh chất lượng cao, an toàn và hiệu quả"
       },
-      "comfort": {
-        "title": "Không Gian Tiện Nghi",
-        "desc": "Phòng nghỉ được trang bị đầy đủ tiện nghi, không gian thoáng đãng tạo cảm giác thư giãn tuyệt đối"
+      "traditional": {
+        "title": "Phương Pháp Truyền Thống",
+        "desc": "Áp dụng các phương pháp y học cổ truyền đã được chứng minh qua nhiều thế hệ"
       },
-      "location": {
-        "title": "Vị Trí Thuận Tiện",
-        "desc": "Tọa lạc tại trung tâm quận Cầu Giấy, dễ dàng di chuyển đến các điểm du lịch và khu vực kinh doanh"
+      "safety": {
+        "title": "An Toàn, Không Tác Dụng Phụ",
+        "desc": "Điều trị bằng thảo dược tự nhiên, an toàn, ít tác dụng phụ so với thuốc Tây y"
       },
-      "wifi": {
-        "title": "Wi-Fi Miễn Phí",
-        "desc": "Kết nối internet tốc độ cao miễn phí trong toàn bộ khu vực khách sạn, phục vụ công việc và giải trí"
+      "comprehensive": {
+        "title": "Chăm Sóc Toàn Diện",
+        "desc": "Không chỉ điều trị triệu chứng mà còn chăm sóc sức khỏe tổng thể của bệnh nhân"
       },
-      "service": {
-        "title": "Dịch Vụ 24/7",
-        "desc": "Dịch vụ phòng và hỗ trợ khách hàng 24/7, đảm bảo mọi nhu cầu của quý khách đều được đáp ứng"
+      "trust": {
+        "title": "Uy Tín, Đáng Tin Cậy",
+        "desc": "Phòng khám được cấp phép hoạt động, tuân thủ đầy đủ các quy định về y tế"
       }
     },
     "cta": {
-      "title": "Trải Nghiệm Lưu Trú Đẳng Cấp Ngay Hôm Nay",
-      "subtitle": "Liên hệ với chúng tôi để đặt phòng hoặc tìm hiểu thêm về dịch vụ của chúng tôi",
-      "contact": "Đặt Phòng Ngay",
-      "call": "Gọi: 024 32212666"
+      "title": "Chăm Sóc Sức Khỏe Của Bạn Ngay Hôm Nay",
+      "subtitle": "Liên hệ với chúng tôi để được tư vấn và đặt lịch khám",
+      "contact": "Liên Hệ Ngay",
+      "call": "Gọi: 0865 100 018"
     }
   },
   "contact": {
     "pageTitle": "Liên hệ với chúng tôi",
-    "pageSubtitle": "Chúng tôi luôn sẵn sàng lắng nghe và hỗ trợ bạn 24/7.",
+    "pageSubtitle": "Chúng tôi luôn sẵn sàng tư vấn và hỗ trợ bạn",
     "breadcrumb": "Liên hệ",
     "contactInfo": {
       "title": "Thông tin liên hệ",
-      "subtitle": "Kết nối với chúng tôi qua các kênh dưới đây.",
+      "subtitle": "Kết nối với chúng tôi qua các kênh dưới đây",
       "addressLabel": "Địa chỉ",
       "phoneLabel": "Số điện thoại",
       "emailLabel": "Email",
       "address": "📍 Địa chỉ:",
       "phone": "📞 Điện thoại:",
       "email": "📧 Email:",
-      "hours": "🕒 Thời gian phục vụ:",
-      "taxId": "🏢 MST:",
-      "workingHours": "24/7 - Dịch vụ lưu trú và hỗ trợ khách hàng"
+      "hours": "🕒 Thời gian làm việc:",
+      "workingHours": "Theo lịch hẹn - Vui lòng liên hệ trước khi đến"
     },
     "map": {
       "title": "Tìm chúng tôi trên bản đồ",
-      "address": "📍 Số 18 ngách 6/41 phố Trần Quốc Hoàn, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội"
+      "address": "📍 193/1A đường Tam Châu, Khu Phố 51, Phường Tam Bình, TP. Hồ Chí Minh, Việt Nam"
     },
     "form": {
-      "title": "Gửi yêu cầu cho chúng tôi",
-      "subtitle": "Điền vào biểu mẫu bên dưới và chúng tôi sẽ liên hệ lại với bạn sớm nhất.",
+      "title": "Gửi yêu cầu tư vấn",
+      "subtitle": "Điền vào biểu mẫu bên dưới để đặt lịch khám hoặc tư vấn. Chúng tôi sẽ liên hệ lại với bạn sớm nhất",
       "name": "Họ và tên *",
       "namePlaceholder": "Nguyễn Văn A",
       "phone": "Số điện thoại *",
@@ -178,18 +151,18 @@
     },
     "modal": {
       "title": "Cảm ơn bạn đã liên hệ!",
-      "message": "Chúng tôi đã nhận được yêu cầu đặt phòng/tư vấn của bạn. Đội ngũ nhân viên sẽ sớm liên hệ với bạn trong thời gian sớm nhất.",
-      "note": "Thông thường chúng tôi sẽ phản hồi trong vòng 24 giờ.",
+      "message": "Chúng tôi đã nhận được yêu cầu tư vấn/đặt lịch khám của bạn. Đội ngũ nhân viên sẽ sớm liên hệ với bạn trong thời gian sớm nhất",
+      "note": "Thông thường chúng tôi sẽ phản hồi trong vòng 24 giờ",
       "button": "Đã hiểu"
     }
   },
   "about": {
-    "pageTitle": "Giới Thiệu Công Ty",
-    "pageSubtitle": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD)",
+    "pageTitle": "Về Chúng Tôi",
+    "pageSubtitle": "GOLDEN HEALTH THIEN TAM TRADING SERVICE COMPANY LIMITED (GOLDEN HEALTH THIEN TAM CO., LTD)",
     "breadcrumb": "Giới thiệu",
     "intro": {
-      "title": "Về CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY",
-      "desc": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD) được thành lập vào ngày 23 tháng 01 năm 2019, chuyên hoạt động trong lĩnh vực dịch vụ lưu trú ngắn ngày (Khách sạn). Chúng tôi cam kết mang đến cho quý khách trải nghiệm lưu trú tuyệt vời với không gian tiện nghi, dịch vụ tận tâm và chất lượng đẳng cấp."
+      "title": "Về GOLDEN HEALTH THIEN TAM TRADING SERVICE COMPANY LIMITED",
+      "desc": "GOLDEN HEALTH THIEN TAM TRADING SERVICE COMPANY LIMITED (GOLDEN HEALTH THIEN TAM CO., LTD) là phòng khám y học cổ truyền chuyên nghiệp, hoạt động trong lĩnh vực khám bệnh, chữa bệnh bằng y học cổ truyền. Chúng tôi cam kết mang đến dịch vụ chăm sóc sức khỏe chất lượng cao, an toàn và hiệu quả cho cộng đồng."
     },
     "legal": {
       "title": "Thông Tin Pháp Lý",
@@ -198,18 +171,20 @@
       "taxID": "Mã số thuế:",
       "address": "Địa chỉ:",
       "representative": "Người đại diện:",
-      "foundingDate": "Ngày thành lập (Hoạt động):",
-      "industry": "Ngành nghề chính:"
+      "foundingDate": "Ngày hoạt động:",
+      "industry": "Ngành nghề chính:",
+      "status": "Tình trạng:"
     },
     "mission": {
       "title": "Sứ Mệnh & Giá Trị Cốt Lõi",
       "missionTitle": "Sứ Mệnh",
-      "missionDesc": "Chúng tôi cam kết mang đến cho quý khách trải nghiệm lưu trú đẳng cấp với dịch vụ tận tâm, không gian tiện nghi và chất lượng phục vụ cao nhất. Mỗi khách hàng đều được đối xử với sự tôn trọng và chăm sóc chu đáo.",
+      "missionDesc": "Chúng tôi cam kết mang đến dịch vụ khám chữa bệnh bằng y học cổ truyền chất lượng cao, an toàn và hiệu quả. Mỗi bệnh nhân đều được chăm sóc với sự tận tâm, chu đáo và tôn trọng. Chúng tôi mong muốn góp phần bảo vệ và nâng cao sức khỏe cộng đồng thông qua các phương pháp y học cổ truyền đã được chứng minh qua nhiều thế hệ.",
       "valuesTitle": "Giá Trị Cốt Lõi",
       "values": [
-        "Tận Tâm: Đội ngũ nhân viên chuyên nghiệp, luôn sẵn sàng phục vụ với thái độ tận tâm và chu đáo",
-        "Chất Lượng Dịch Vụ: Cam kết mang đến dịch vụ lưu trú chất lượng cao với không gian sạch sẽ, tiện nghi và hiện đại",
-        "Không Gian Tiện Nghi: Phòng nghỉ được trang bị đầy đủ tiện nghi, không gian thoáng đãng tạo cảm giác thư giãn tuyệt đối"
+        "Chuyên Nghiệp: Đội ngũ bác sĩ giàu kinh nghiệm, được đào tạo chuyên sâu về y học cổ truyền",
+        "Chất Lượng: Cam kết mang đến dịch vụ khám chữa bệnh chất lượng cao, an toàn và hiệu quả",
+        "Uy Tín: Phòng khám được cấp phép hoạt động, tuân thủ đầy đủ các quy định về y tế",
+        "Tận Tâm: Chăm sóc bệnh nhân với sự tận tâm, chu đáo và tôn trọng"
       ]
     },
     "contact": {
@@ -217,117 +192,74 @@
       "headquarters": "Địa chỉ:",
       "phone": "Điện thoại:",
       "email": "Email:",
-      "workingHours": "Thời gian phục vụ:",
-      "hours": "24/7 - Dịch vụ lưu trú và hỗ trợ khách hàng"
+      "workingHours": "Thời gian làm việc:",
+      "hours": "Theo lịch hẹn - Vui lòng liên hệ trước khi đến"
     }
   },
   "services": {
-    "pageTitle": "Dịch Vụ Lưu Trú & Tiện Ích",
-    "pageSubtitle": "Trải nghiệm lưu trú đẳng cấp tại Cầu Giấy, Hà Nội",
+    "pageTitle": "Dịch Vụ Khám Chữa Bệnh",
+    "pageSubtitle": "Dịch vụ y học cổ truyền chuyên nghiệp tại TP. Hồ Chí Minh",
     "breadcrumb": "Dịch vụ",
-    "featured": {
-      "title": "Trải Nghiệm Tiện Nghi Vượt Trội",
-      "subtitle": "Tại CAUGIAY HST, chúng tôi cam kết mang đến những tiện nghi hiện đại và dịch vụ tận tâm nhất, giúp mỗi khoảnh khắc của quý khách đều trở nên đáng nhớ.",
-      "spa": {
-        "title": "Khu Spa & Massage",
-        "desc": "Thư giãn và tái tạo năng lượng với các liệu pháp spa độc đáo",
-        "link": "Xem Chi Tiết →"
-      },
-      "restaurant": {
-        "title": "Nhà Hàng & Bar",
-        "desc": "Thưởng thức ẩm thực đẳng cấp với nguyên liệu tươi ngon",
-        "link": "Xem Thực Đơn →"
-      },
-      "pool": {
-        "title": "Hồ Bơi Vô Cực",
-        "desc": "Tận hưởng làn nước mát lạnh và cảnh quan thiên nhiên từ hồ bơi vô cực trên cao",
-        "link": "Khám Phá Thêm →"
-      },
-      "gym": {
-        "title": "Phòng Gym & Yoga",
-        "desc": "Trang thiết bị hiện đại và các lớp yoga chuyên nghiệp",
-        "link": "Xem Lịch Tập →"
-      }
-    },
-    "other": {
-      "title": "Các Dịch Vụ Khác",
-      "airport": {
-        "title": "Đưa Đón Sân Bay",
-        "desc": "Dịch vụ xe riêng sang trọng, tiện lợi và an toàn"
-      },
-      "events": {
-        "title": "Tổ Chức Sự Kiện",
-        "desc": "Địa điểm lý tưởng cho đám cưới, hội nghị và sự kiện"
-      },
-      "roomService": {
-        "title": "Dịch Vụ Tại Phòng",
-        "desc": "Dịch vụ 24/7 đáp ứng mọi yêu cầu của khách"
-      },
-      "tours": {
-        "title": "Tour Du Lịch",
-        "desc": "Khám phá vẻ đẹp địa phương với các tour được thiết kế riêng"
-      }
-    },
-    "rooms": {
-      "title": "🛏️ Phòng Ốc Tiện Nghi",
-      "desc": "Phòng nghỉ sạch sẽ, hiện đại với đầy đủ tiện nghi, không gian thoáng đãng và ánh sáng tự nhiên. Mỗi phòng được trang bị đầy đủ để đảm bảo sự thoải mái và tiện nghi cho quý khách.",
-      "featuresTitle": "Tiện Ích Phòng",
+    "clinic": {
+      "title": "🏥 Khám Bệnh Y Học Cổ Truyền",
+      "desc": "Chúng tôi cung cấp dịch vụ khám bệnh toàn diện bằng phương pháp y học cổ truyền. Bác sĩ sẽ tiến hành khám tổng quát, chẩn đoán bệnh lý và tư vấn phương pháp điều trị phù hợp nhất cho từng bệnh nhân.",
+      "featuresTitle": "Quy Trình Khám Bệnh",
       "features": [
         {
-          "title": "Giường Nghỉ Thoải Mái",
-          "desc": "Giường đôi rộng rãi với nệm chất lượng cao, ga gối sạch sẽ, đảm bảo giấc ngủ ngon"
+          "title": "Khám Tổng Quát",
+          "desc": "Khám tổng quát để đánh giá tình trạng sức khỏe tổng thể của bệnh nhân"
         },
         {
-          "title": "Không Gian Thoáng Đãng",
-          "desc": "Phòng nghỉ với không gian rộng rãi, ánh sáng tự nhiên, tạo cảm giác thư giãn tuyệt đối"
+          "title": "Chẩn Đoán Bệnh Lý",
+          "desc": "Chẩn đoán chính xác bệnh lý dựa trên các phương pháp y học cổ truyền"
         },
         {
-          "title": "Vệ Sinh Sạch Sẽ",
-          "desc": "Phòng được vệ sinh kỹ lưỡng hàng ngày, đảm bảo môi trường sạch sẽ, an toàn"
+          "title": "Tư Vấn Điều Trị",
+          "desc": "Tư vấn phương pháp điều trị phù hợp và hiệu quả nhất"
         },
         {
-          "title": "Đầy Đủ Tiện Nghi",
-          "desc": "Tủ quần áo, bàn làm việc, TV, điều hòa, tủ lạnh mini và các tiện ích cần thiết khác"
+          "title": "Theo Dõi Tiến Trình",
+          "desc": "Theo dõi và đánh giá tiến trình điều trị để điều chỉnh phác đồ khi cần"
         }
       ]
     },
-    "wifi": {
-      "title": "📶 Wi-Fi Miễn Phí",
-      "desc": "Kết nối internet tốc độ cao miễn phí trong toàn bộ khu vực khách sạn, phục vụ công việc và giải trí. Quý khách có thể làm việc, học tập hoặc giải trí trực tuyến một cách thuận tiện.",
+    "treatment": {
+      "title": "💊 Điều Trị Bệnh",
+      "desc": "Chúng tôi điều trị các bệnh lý bằng phương pháp y học cổ truyền an toàn, hiệu quả. Phương pháp điều trị được cá nhân hóa theo từng bệnh nhân để đạt hiệu quả tối ưu.",
+      "featuresTitle": "Phương Pháp Điều Trị",
+      "features": [
+        "Điều trị bằng thuốc y học cổ truyền",
+        "Châm cứu và bấm huyệt",
+        "Xoa bóp và massage trị liệu",
+        "Tư vấn về chế độ dinh dưỡng và sinh hoạt"
+      ]
+    },
+    "herbal": {
+      "title": "🌿 Thuốc Y Học Cổ Truyền",
+      "desc": "Chúng tôi cung cấp các loại thuốc y học cổ truyền chất lượng cao, được bào chế từ các thảo dược tự nhiên theo phương pháp truyền thống. Tất cả thuốc đều được kiểm định chất lượng và an toàn cho người sử dụng.",
       "featuresTitle": "Đặc Điểm",
       "features": [
-        "Tốc độ internet cao, ổn định 24/7",
-        "Phủ sóng toàn bộ khu vực khách sạn",
-        "Miễn phí cho tất cả khách hàng",
-        "Bảo mật cao, an toàn cho công việc"
+        "Thuốc được bào chế từ thảo dược tự nhiên",
+        "Được kiểm định chất lượng và an toàn",
+        "Bào chế theo phương pháp truyền thống",
+        "Hướng dẫn sử dụng chi tiết cho từng loại thuốc"
       ]
     },
-    "service": {
-      "title": "🕐 Dịch Vụ Phòng 24/7",
-      "desc": "Đội ngũ nhân viên chuyên nghiệp sẵn sàng phục vụ quý khách 24/7 với thái độ tận tâm, chu đáo. Mọi yêu cầu của quý khách đều được đáp ứng nhanh chóng và hiệu quả.",
-      "featuresTitle": "Dịch Vụ Cung Cấp",
+    "consultation": {
+      "title": "👨‍⚕️ Tư Vấn Sức Khỏe",
+      "desc": "Chúng tôi cung cấp dịch vụ tư vấn về chế độ dinh dưỡng, sinh hoạt và phương pháp chăm sóc sức khỏe theo y học cổ truyền. Tư vấn được thực hiện bởi các bác sĩ giàu kinh nghiệm.",
+      "featuresTitle": "Nội Dung Tư Vấn",
       "features": [
-        "Hỗ trợ đặt phòng và check-in/check-out linh hoạt",
-        "Dịch vụ dọn phòng hàng ngày",
-        "Hỗ trợ khách hàng 24/7 qua điện thoại",
-        "Tư vấn và hỗ trợ về địa điểm, phương tiện đi lại"
+        "Tư vấn về chế độ dinh dưỡng phù hợp",
+        "Hướng dẫn về chế độ sinh hoạt lành mạnh",
+        "Tư vấn về phương pháp phòng bệnh",
+        "Hướng dẫn chăm sóc sức khỏe tại nhà"
       ]
     },
-    "location": {
-      "title": "📍 Vị Trí Thuận Tiện",
-      "desc": "Tọa lạc tại trung tâm quận Cầu Giấy, dễ dàng di chuyển đến các điểm du lịch và khu vực kinh doanh. Vị trí thuận tiện cho cả khách du lịch và khách công tác.",
-      "advantagesTitle": "Ưu Điểm Vị Trí",
-      "advantages": [
-        "Gần trung tâm thành phố, dễ dàng di chuyển",
-        "Gần các điểm du lịch, mua sắm và giải trí",
-        "Thuận tiện cho khách công tác, gần các khu vực kinh doanh",
-        "Dễ dàng tiếp cận các phương tiện giao thông công cộng"
-      ]
-    },
-    "ctaTitle": "Bạn Cần Đặt Phòng Hoặc Tư Vấn?",
-    "ctaDesc": "Liên hệ với chúng tôi để đặt phòng hoặc tìm hiểu thêm về dịch vụ của chúng tôi",
-    "ctaContact": "Đặt Phòng Ngay",
-    "ctaCall": "Gọi: 024 32212666"
+    "ctaTitle": "Bạn Cần Tư Vấn Hoặc Đặt Lịch Khám?",
+    "ctaDesc": "Liên hệ với chúng tôi để được tư vấn và đặt lịch khám",
+    "ctaContact": "Liên Hệ Ngay",
+    "ctaCall": "Gọi: 0865 100 018"
   },
   "companyInfo": {
     "pageTitle": "Thông Tin Doanh Nghiệp",
@@ -346,7 +278,7 @@
         "taxAddress": "Địa chỉ thuế:",
         "headquarters": "Địa chỉ trụ sở:",
         "phone": "Điện thoại:",
-        "email": "Email:"
+        "companyType": "Loại hình doanh nghiệp:"
       },
       "statusActive": "Đang hoạt động"
     },
@@ -354,130 +286,30 @@
       "title": "Thông Tin Ngành Nghề Kinh Doanh",
       "mainIndustry": {
         "label": "Ngành nghề chính:",
-        "value": "Dịch vụ lưu trú ngắn ngày (Khách sạn)"
+        "value": "Hoạt động của các phòng khám đa khoa, chuyên khoa và nha khoa"
       },
       "activityAreas": {
-        "label": "Lĩnh vực hoạt động:",
+        "label": "Chi tiết:",
         "items": [
-          "Dịch vụ lưu trú ngắn ngày",
-          "Cho thuê phòng nghỉ",
-          "Dịch vụ phòng 24/7",
-          "Tiện ích khách sạn (Wi-Fi, dịch vụ phòng)"
+          "Khám bệnh, chữa bệnh bằng y học cổ truyền",
+          "Điều trị các bệnh lý bằng phương pháp y học cổ truyền",
+          "Cung cấp thuốc y học cổ truyền",
+          "Tư vấn sức khỏe và chăm sóc sức khỏe"
         ]
       }
     },
     "contactInfo": {
       "title": "Thông Tin Liên Hệ",
       "workingHours": {
-        "label": "Thời gian phục vụ:",
-        "value": "24/7 - Dịch vụ lưu trú và hỗ trợ khách hàng"
-      },
-      "website": {
-        "label": "Website:",
-        "value": "https://caugiayhotel.store"
+        "label": "Thời gian làm việc:",
+        "value": "Theo lịch hẹn - Vui lòng liên hệ trước khi đến"
       }
     },
     "cta": {
       "title": "Bạn Cần Liên Hệ Với Chúng Tôi?",
       "desc": "Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn",
-      "contact": "Liên hệ ngay",
-      "call": "Gọi: 024 32212666"
-    }
-  },
-  "gallery": {
-    "pageTitle": "Bộ Sưu Tập",
-    "pageSubtitle": "Khám phá vẻ đẹp sang trọng và tiện nghi đẳng cấp tại nhà nghỉ của chúng tôi.",
-    "breadcrumb": "Thư viện ảnh",
-    "filterAll": "Tất cả",
-    "filterInterior": "Nội thất",
-    "filterExterior": "Ngoại thất",
-    "filterAmenities": "Tiện ích",
-    "filterVideo": "Video",
-    "items": {
-      "presidential": {
-        "title": "Phòng Tổng thống sang trọng"
-      },
-      "poolView": {
-        "title": "View hồ bơi buổi hoàng hôn"
-      },
-      "lounge": {
-        "title": "Khu vực sảnh chờ thanh lịch"
-      },
-      "videoTour": {
-        "title": "Video tour toàn cảnh nhà nghỉ"
-      },
-      "bathroom": {
-        "title": "Phòng tắm tiện nghi hiện đại"
-      },
-      "garden": {
-        "title": "Khu vườn xanh mát"
-      },
-      "bar": {
-        "title": "Quầy bar cao cấp"
-      },
-      "gym": {
-        "title": "Phòng tập gym đầy đủ thiết bị"
-      },
-      "restaurant": {
-        "title": "Nhà hàng ẩm thực Á-Âu"
-      },
-      "exteriorNight": {
-        "title": "Ngoại thất về đêm"
-      },
-      "spa": {
-        "title": "Spa thư giãn"
-      },
-      "roomAmenities": {
-        "title": "Tiện ích trong phòng ngủ"
-      }
-    }
-  },
-  "booking": {
-    "pageTitle": "Hệ thống đặt phòng",
-    "pageSubtitle": "Trải nghiệm sự sang trọng và đặt phòng nghỉ dưỡng độc quyền của bạn một cách an toàn.",
-    "breadcrumb": "Đặt phòng",
-    "steps": {
-      "selectDate": "Chọn ngày",
-      "selectRoom": "Chọn phòng",
-      "guestInfo": "Thông tin khách",
-      "payment": "Thanh toán"
-    },
-    "widgetTitle": "1. Chọn ngày nhận và trả phòng",
-    "continue": "Tiếp tục"
-  },
-  "rooms": {
-    "pageTitle": "Các Loại Phòng Nghỉ",
-    "pageSubtitle": "Khám phá không gian nghỉ dưỡng đẳng cấp của chúng tôi",
-    "breadcrumb": "Phòng nghỉ",
-    "filterAll": "Tất cả",
-    "filterCapacity2": "Sức chứa: 2 người",
-    "filterCapacity4": "Sức chứa: 4 người",
-    "filterBedKing": "Loại giường: King",
-    "filterBedQueen": "Loại giường: Queen",
-    "viewDetails": "Xem chi tiết",
-    "deluxeSea": {
-      "title": "Phòng Deluxe Hướng Biển",
-      "price": "Từ 2.500.000 VNĐ / đêm"
-    },
-    "presidential": {
-      "title": "Suite Tổng Thống",
-      "price": "Từ 5.000.000 VNĐ / đêm"
-    },
-    "standard": {
-      "title": "Phòng Standard Cao Cấp",
-      "price": "Từ 1.800.000 VNĐ / đêm"
-    },
-    "family": {
-      "title": "Phòng Gia Đình Kết Nối",
-      "price": "Từ 3.500.000 VNĐ / đêm"
-    },
-    "penthouse": {
-      "title": "Penthouse Sang Trọng",
-      "price": "Từ 6.500.000 VNĐ / đêm"
-    },
-    "twin": {
-      "title": "Phòng Standard Twin",
-      "price": "Từ 1.500.000 VNĐ / đêm"
+      "contact": "Liên Hệ Ngay",
+      "call": "Gọi: 0865 100 018"
     }
   }
 }
